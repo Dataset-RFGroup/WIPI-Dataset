@@ -26,4 +26,4 @@ We propose a Multi-Model Decision Fusion (MMDF) method to automatically obtain c
 
 <center>Figure 2. The framework of MMDF to automatically obtain cloud-free labels.</center>
 
-The WIPI can be used for academic research only, please do not use them for commercial purposes. If you have any problem with the use of WIPI dataset, please contact: [rfwang@xidian.edu.cn](mailto:rfwang@xidian.edu.cn) and [weibinli@xidian.edu.cn](mailto:weibinli@xidian.edu.cn).
+The WIPI can be used for academic research only, please do not use them for commercial purposes. If you have any problem with the use of WIPI dataset, please contact: [rfwang@xidian.edu.cn](mailto:rfwang@xidian.edu.cn) and [zhg_chenchen@163.com](mailto:zhg_chenchen@163.com).
