@@ -1,6 +1,5 @@
 # WIPI-Dataset
-
-WIPI数据集是由[Sen1Floods11](https://github.com/cloudtostreet/Sen1Floods11)数据集经过水体指数提取和去云操作生成的。下表给出了数据集的相关信息。
+The WIPI dataset is generated from the [Sen1Floods11](https://github.com/cloudtostreet/Sen1Floods11) dataset through water index extraction and cloud removal operations. The table below provides relevant information about the dataset.
 
 | Dataset  |  Image size  | Train set | Val set | Test set |
 | :------: | :----------: | :-------: | :-----: | :------: |
