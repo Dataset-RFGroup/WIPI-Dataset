@@ -20,10 +20,6 @@ In this work, instead of directly superimposing the SAR and multispectral image,
 
 ## Obtaining cloud-free label
 
-We propose a Multi-Model Decision Fusion (MMDF) method to automatically obtain cloud-free labels based on the fine manual labels of multispectral images. The framework of MMDF is shown in Figure 2.
-
-![image.png](https://s2.loli.net/2023/11/21/LwBqrUYFieNngyR.png)
-
-<center>Figure 2. The framework of MMDF to automatically obtain cloud-free labels.</center>
+We propose a Multi-Model Decision Fusion (MMDF) method to automatically obtain cloud-free labels based on the fine manual labels of multispectral images.
 
 The WIPI can be used for academic research only, please do not use them for commercial purposes. If you have any problem with the use of WIPI dataset, please contact: [rfwang@xidian.edu.cn](mailto:rfwang@xidian.edu.cn) and [zhg_chenchen@163.com](mailto:zhg_chenchen@163.com).
