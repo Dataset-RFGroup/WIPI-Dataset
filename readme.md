@@ -1,5 +1,5 @@
 # WIPI-Dataset
-The WIPI dataset is generated from the [Sen1Floods11](https://github.com/cloudtostreet/Sen1Floods11) dataset through water index extraction and cloud removal operations. The table below provides relevant information about the dataset.
+The WIPI dataset includes multi-modality images of nine-channelseven water indexes7 VV + VH) and the Cloud-Free Label automatically obtained by ourproposed MMDF algorithm. This dataset is generated from the [Sen1Floods11](https://github.com/cloudtostreet/Sen1Floods11) dataset through water index extraction and cloud removal operations. The table below provides relevant information about the dataset.
 
 | Dataset  |  Image size  | Train set | Val set | Test set |
 | :------: | :----------: | :-------: | :-----: | :------: |
