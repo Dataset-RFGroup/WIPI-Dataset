@@ -7,13 +7,14 @@ The WIPI dataset is generated from the [Sen1Floods11](https://github.com/cloudto
 | Sen2-MS  | (512,512,13) |    221    |   85    |   140    |
 |   WIPI   | (512,512,9)  |    221    |   85    |   140    |
 
+## Sen1Floods11
 The Sen1Floods11 dataset comprises raw Sentinel-1 SAR images (Sen1-SAR) and raw Sentinel-2 multispectral images (Sen2-MS), where Sen1-SAR includes VV and VH bands, and Sen2-MS includes 13 bands (1-8, 8A, 9-12) covering the entire spectrum. The dataset covers 120,406 square kilometers of surface water, spanning 6 continents globally and documenting 11 flood events. The selection criteria for events include having flood coverage on Sentinel-1 and coincident Sentinel-2 imagery on the same day or within 2 days of the Sentinel-1 image. In addition to images, Sen1-SAR provides automated labels using the Otsu threshold method, with two categories: water (label 1) and non-water (label 0). Sen2-MS provides manual labels, including three categories: water (label 1), non-water (label 0), and cloud and invalid regions (label -1). A set of sample images and masks from the Sen1Floods11 dataset are shown in
 Figure 1.
 
 ![Figure1.jpg](https://s2.loli.net/2023/11/21/Tk4XdNlgbD6KHFJ.jpg)
 <center>Figure 1. A set of sample images and masks from the Sen1Floods11 dataset.</center>
 
-
+## WIPI-Dataset
 The WIPI dataset includes multi-modality images of nine-channelseven water indexes7 VV + VH) and the Cloud-Free Label automatically obtained by ourproposed MMDF algorithm. The example instances of nine-channel and corresponding
 Ground Truth (Cloud-Free Label) are shown in Figure 2.
 ![image](https://github.com/Dataset-RFGroup/WIPI-Dataset/assets/64565639/1b663c98-b5d7-4c89-8f2d-e5025743b291)
