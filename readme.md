@@ -11,8 +11,8 @@ The Sen1Floods11 dataset comprises raw Sentinel-1 SAR images (Sen1-SAR) and raw 
 Figure 1.
 
 ![Figure1.jpg](https://s2.loli.net/2023/11/21/Tk4XdNlgbD6KHFJ.jpg)
-
 <center>Figure 1. A set of sample images and masks from the Sen1Floods11 dataset.</center>
+
 
 The WIPI dataset includes multi-modality images of nine-channelseven water indexes7 VV + VH) and the Cloud-Free Label automatically obtained by ourproposed MMDF algorithm. The example instances of nine-channel and corresponding
 Ground Truth (Cloud-Free Label) are shown in Figure 2.
