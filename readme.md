@@ -1,5 +1,5 @@
 # WIPI-Dataset
-The WIPI dataset includes multi-modality images of nine-channelseven water indexes7 VV + VH) and the Cloud-Free Label automatically obtained by ourproposed MMDF algorithm. This dataset is generated from the [Sen1Floods11](https://github.com/cloudtostreet/Sen1Floods11) dataset through water index extraction and cloud removal operations. The table below provides relevant information about the dataset.
+The WIPI dataset is generated from the [Sen1Floods11](https://github.com/cloudtostreet/Sen1Floods11) dataset through water index extraction and cloud removal operations. The table below provides relevant information about the dataset.
 
 | Dataset  |  Image size  | Train set | Val set | Test set |
 | :------: | :----------: | :-------: | :-----: | :------: |
@@ -13,6 +13,11 @@ Figure 1.
 ![Figure1.jpg](https://s2.loli.net/2023/11/21/Tk4XdNlgbD6KHFJ.jpg)
 
 <center>Figure 1. A set of sample images and masks from the Sen1Floods11 dataset.</center>
+
+The WIPI dataset includes multi-modality images of nine-channelseven water indexes7 VV + VH) and the Cloud-Free Label automatically obtained by ourproposed MMDF algorithm. The example instances of nine-channel and corresponding
+Ground Truth (Cloud-Free Label) are shown in Figure 2.
+![image](https://github.com/Dataset-RFGroup/WIPI-Dataset/assets/64565639/1b663c98-b5d7-4c89-8f2d-e5025743b291)
+<center>Figure 2. Example instances of nine-channel and Ground Truth (Cloud Free Label) of WIPI dataset.</center>
 
 ## Water Index Extraction
 
